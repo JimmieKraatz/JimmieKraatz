@@ -4,48 +4,58 @@ Embedded Systems Engineer | Firmware | AI/LLM Systems (in progress)
 
 ---
 
-## About Me
+Engineer with a background in embedded systems, hardware/software integration, and test engineering, now focused on building modular firmware and AI/LLM-backed systems.
 
-Engineer with a background in embedded systems, hardware/software integration, and containerized development workflows.
-
-Currently focused on:
-- modular embedded firmware architecture
+Current focus:
+- modular embedded control/runtime architecture
 - reproducible development environments (Docker/devcontainers)
-- building AI/LLM-backed systems and tooling
+- local AI/LLM infrastructure and backend systems
 
 ---
 
-## Featured Projects
+## 🔧 Featured Project
 
 ### ESP32-C6 Embedded Control System
-Modular firmware system with:
-- state-machine architecture
-- CLI-based runtime control
-- persistent configuration (NVS)
-- CI-driven delivery workflow
+
+Modular firmware system demonstrating:
+
+- state-machine driven control architecture
+- separation of portable logic from platform-specific adapters
+- CLI-based runtime control and configuration
+- persistent configuration using NVS
+- CI-driven build, test, and release workflow
 
 👉 https://github.com/JimmieKraatz/blinky_c6
 
 ---
 
-### AI/LLM Backend Platform (in progress)
+## 🧠 In Progress
+
+### AI/LLM Backend Platform
+
 Containerized backend system for:
-- agent/tool orchestration
-- RAG pipelines
+
+- agent and tool orchestration
+- retrieval-augmented generation (RAG)
 - local GPU inference (vLLM / llama.cpp)
+
+Focus areas:
+- context management and memory handling
+- model serving and orchestration
+- practical LLM system integration
 
 ---
 
-## Skills
+## ⚙️ Technical Areas
 
 - Embedded C / ESP-IDF / RTOS concepts
-- System architecture & modular design
-- Docker / devcontainers / reproducible environments
-- Python (tooling, data flow, AWS integration)
+- Modular system architecture and interface boundaries
+- Docker, devcontainers, and reproducible environments
+- Python for tooling, data flow, and backend services
 - AWS (IoT Core, Timestream, DynamoDB)
 
 ---
 
-## Links
+## 🔗 Links
 
-- LinkedIn: https://www.linkedin.com/in/jameskraatz
+- LinkedIn: https://linkedin.com/in/jameskraatz
